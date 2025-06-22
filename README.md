@@ -36,4 +36,4 @@ Se o usuário desejar excluir um livro do sistema, essa função permite a remo�
 
 Para quando o usuário terminar suas consultas ao acervo.  Ela permite ao usuário encerrar o programa. Esta função fecha o sistema de forma segura e eficiente, garantindo que todos os dados sejam salvos antes do término da sessão.
 
-# gerenciamentodelivrosbiblioteca
+
