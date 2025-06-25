@@ -38,6 +38,8 @@ Para quando o usuário terminar suas consultas ao acervo.  Ela permite ao usuár
 
 
 ![Captura de tela 2025-05-18 213121](https://github.com/user-attachments/assets/cf968f00-7c13-4ef4-8bd7-dbc94215895b)
+
+
 ![Captura de tela 2025-05-18 213814](https://github.com/user-attachments/assets/46c74904-aed7-4444-9d6f-5c2dedfa7354)
 
 
