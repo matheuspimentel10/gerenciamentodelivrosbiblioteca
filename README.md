@@ -37,3 +37,15 @@ Se o usuário desejar excluir um livro do sistema, essa função permite a remo�
 Para quando o usuário terminar suas consultas ao acervo.  Ela permite ao usuário encerrar o programa. Esta função fecha o sistema de forma segura e eficiente, garantindo que todos os dados sejam salvos antes do término da sessão.
 
 
+![Captura de tela 2025-05-18 213121](https://github.com/user-attachments/assets/cf968f00-7c13-4ef4-8bd7-dbc94215895b)
+
+![Captura de tela 2025-05-18 213136](https://github.com/user-attachments/assets/ddaddf52-8739-4203-a289-a2e714f5f2b6)
+
+![Captura de tela 2025-05-18 213159](https://github.com/user-attachments/assets/f87d3a9b-eb4b-46f8-adcb-ce856225820a)
+![Captura de tela 2025-05-18 213436](https://github.com/user-attachments/assets/53776cb1-4e82-4ecb-b092-c0d4c73bcc87)
+![Captura de tela 2025-05-18 213814](https://github.com/user-attachments/assets/46c74904-aed7-4444-9d6f-5c2dedfa7354)
+
+
+
+
+
