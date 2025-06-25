@@ -38,11 +38,6 @@ Para quando o usuário terminar suas consultas ao acervo.  Ela permite ao usuár
 
 
 ![Captura de tela 2025-05-18 213121](https://github.com/user-attachments/assets/cf968f00-7c13-4ef4-8bd7-dbc94215895b)
-
-![Captura de tela 2025-05-18 213136](https://github.com/user-attachments/assets/ddaddf52-8739-4203-a289-a2e714f5f2b6)
-
-![Captura de tela 2025-05-18 213159](https://github.com/user-attachments/assets/f87d3a9b-eb4b-46f8-adcb-ce856225820a)
-![Captura de tela 2025-05-18 213436](https://github.com/user-attachments/assets/53776cb1-4e82-4ecb-b092-c0d4c73bcc87)
 ![Captura de tela 2025-05-18 213814](https://github.com/user-attachments/assets/46c74904-aed7-4444-9d6f-5c2dedfa7354)
 
 
